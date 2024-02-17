@@ -24,3 +24,4 @@ C:\Users\encju\Desktop\Dev\Blazor\conversao-temperatura\obj\Debug\net8.0\convers
 C:\Users\encju\Desktop\Dev\Blazor\conversao-temperatura\obj\Debug\net8.0\ref\conversao-temperatura.dll
 C:\Users\encju\Desktop\Dev\Blazor\conversao-temperatura\bin\Debug\net8.0\Properties\appsettings.Development.json
 C:\Users\encju\Desktop\Dev\Blazor\conversao-temperatura\bin\Debug\net8.0\Properties\appsettings.json
+C:\Users\encju\Desktop\Dev\Blazor\conversao-temperatura\obj\Debug\net8.0\conversao-temperatura.sourcelink.json

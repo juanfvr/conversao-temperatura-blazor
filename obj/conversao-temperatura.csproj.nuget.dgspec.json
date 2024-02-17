@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj": {}
+    "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj": {}
   },
   "projects": {
-    "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj": {
+    "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
+        "projectUniqueName": "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
         "projectName": "conversao-temperatura",
-        "projectPath": "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
+        "projectPath": "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
         "packagesPath": "C:\\Users\\encju\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\obj\\",
+        "outputPath": "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

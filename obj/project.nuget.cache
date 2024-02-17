@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H4ZuFHM2ALbCrVwSDVTA9/pEuent6CokuF1a5r2+Kc2CBrGGK/AJgVvFEDBpGcg64tnI5m1yx9fpwNqXDi0/8w==",
+  "dgSpecHash": "VFHY0rhctsSNPhaf9jOzxiok5Lc6vlUGvA9z34bnjGtvtfQSzSggP0WEykmesEZjZNwyf8FFKPxIQ7IdR3hA9A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
+  "projectFilePath": "c:\\Users\\encju\\Desktop\\Dev\\Blazor\\conversao-temperatura\\conversao-temperatura.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

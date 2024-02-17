@@ -1,0 +1,34 @@
+<div class="border-light rounded bg-light text-black text-center m-3 p-3" style="height: 500px; width: 500px">
+    <h2>CONVERSAO TEMPERATURA</h2>
+<form>
+    <div class="form-group m-3">
+        <label for="temperatureType">Escala a ser convertida:</label>
+        <select class="form-control" name="AcutalScala">
+            <option value="celcius">Celsius</option>
+            <option value="fahrenheit">Fahrenheit</option>
+            <option value="kelvin" @bind="ActualKelvin">Kelvin</option>
+        </select>
+    </div>
+  <div class="form-group m-3">
+    <label for="InputTemperature">Temperatura:</label>
+    <input type="number" class="form-control" id="InputTemperature" aria-describedby="temperatureNumber" placeholder="Ex: 10.5">
+  </div>
+    <div class="form-group m-3">
+        <label for="temperatureType">Escala alvo: </label>
+        <select class="form-control" name="TargetScala">
+            <option value="TargetCelcius">Celsius</option>
+            <option value="TargetFahrenheit">Fahrenheit</option>
+            <option value="TargetKelvin">Kelvin</option>
+        </select>
+    </div>
+  <button type="submit" class="btn btn-primary">Converter</button>
+  <div class="form-group">
+        <label for="temperatureFinalValue"></label>
+        <input type="text" class="form-control" id="temperatureFinalValue" value="Temperatura Convertida:" readonly>
+  </div>
+</form>
+</div>
+
+@code{
+
+}
